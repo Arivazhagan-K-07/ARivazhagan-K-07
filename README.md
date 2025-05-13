@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me ARIVAZHAGAN K 
 
 - 🔭 Here's my [portfolio](https://arivazhagan-k-07.github.io/Arivazhgan07_MY-portfolio/)                                                 
 - 🌱 I’m currently learning DSA to my workflow
